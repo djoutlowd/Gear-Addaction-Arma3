@@ -1,0 +1,1 @@
+this addAction ["Get Loadout", "loadout.sqf"]
